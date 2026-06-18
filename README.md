@@ -8,7 +8,7 @@ This visualization highlights the states contributing the highest number of digi
 - Maharashtra, Karnataka, and Uttar Pradesh emerged as major contributors to transaction activity.
 - High transaction volume indicates strong digital payment adoption and user activity.
 
-![Top States by Transaction Volume](images/Top_states_transaction_volume.png)
+![Top States by Transaction Volume](Top_states_transaction_volume.png)
 
 ---
 
@@ -20,7 +20,7 @@ Analyzed states generating the highest total transaction value.
 - A few states contribute a significant share of the overall transaction value.
 - High-value states indicate stronger purchasing power and greater digital payment penetration.
 
-![Top States by Transaction Value](images/Top_states_transaction_value.png)
+![Top States by Transaction Value](Top_states_transaction_value.png)
 
 ---
 
@@ -32,7 +32,7 @@ Examined the contribution of different transaction categories to overall transac
 - Certain transaction categories dominate user activity.
 - Understanding transaction behavior helps identify the most frequently used payment services.
 
-![Transaction Type Analysis](images/Transaction_type_analysis.png)
+![Transaction Type Analysis](Transaction_type_analysis.png)
 
 ---
 
@@ -44,7 +44,7 @@ Scatter plot showing the relationship between district population and registered
 - A strong positive correlation was observed between district population and registered users.
 - Some districts demonstrate higher-than-expected adoption, indicating strong digital payment penetration.
 
-![Population vs Registered Users](images/Population_vs_users.png)
+![Population vs Registered Users](Population_vs_users.png)
 
 ---
 
@@ -56,7 +56,7 @@ Visualized relationships among demographic and transaction-related variables.
 - Registered Users and App Opens exhibit a strong positive correlation.
 - Population is positively associated with transaction activity and user adoption.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
@@ -68,7 +68,7 @@ Analyzed transaction growth across quarters to understand the evolution of digit
 - Transaction volume shows a consistent upward trend across quarters.
 - Indicates increasing adoption and trust in digital payment platforms.
 
-![Quarterly Transaction Growth Trend](images/Quarterly_Transaction_Growth_Trend.png)
+![Quarterly Transaction Growth Trend](Quarterly_Transaction_Growth_Trend.png)
 
 ---
 
@@ -80,7 +80,7 @@ Identified states with the largest PhonePe user base.
 - User adoption is concentrated in a few key states.
 - States with larger user bases tend to contribute significantly to overall transaction activity.
 
-![Top 10 States by Registered Users](images/Top_10_State_Registered_Users.png)
+![Top 10 States by Registered Users](Top_10_State_Registered_Users.png)
 
 ---
 
@@ -92,7 +92,7 @@ Examined smartphone brand preferences among PhonePe users.
 - A small number of smartphone brands account for the majority of PhonePe users.
 - Device ecosystem analysis helps understand the technology driving digital payment adoption.
 
-![Top Smartphone Brands](images/Top_Smartphone_Brands_Registered_Users.png)
+![Top Smartphone Brands](Top_Smartphone_Brands_Registered_Users.png)
 
 ---
 
