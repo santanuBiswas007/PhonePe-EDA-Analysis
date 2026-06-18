@@ -20,20 +20,16 @@ Performed Exploratory Data Analysis (EDA) on PhonePe transaction data to uncover
 ## Visualizations
 
 ### Top States by Transaction Volume
-![Top States](<img width="1091" height="547" alt="Top_states_transaction_volume" src="https://github.com/user-attachments/assets/cde32252-34b9-4cfa-97f8-b8ff665fae1b" />
-)
+![Top States](Top_states_transaction_volume.png)
 
 ### Top States by Transaction Values
-![Top States](<img width="1105" height="536" alt="Top_states_transaction_value" src="https://github.com/user-attachments/assets/efa819bf-a13c-481b-82c0-2c8a9870c2d2" />
-)
+![Top States](Top_states_transaction_value.png)
 
 ### Population vs Registered Users
-![Population vs Users](<img width="1107" height="650" alt="Population_vs_users" src="https://github.com/user-attachments/assets/3a454f58-371e-40c7-b4e6-1aede3d12404" />
-)
+![Population vs Users](Population_vs_users.png)
 
 ### Correlation_heatmap
-![Correlation](<img width="890" height="592" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/e3269793-a7f2-42c5-a478-f7e45ba217ed" />
-)
+![Correlation](Population_vs_users.png)
 
 
 ## Skills Demonstrated
