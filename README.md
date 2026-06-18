@@ -29,7 +29,7 @@ Performed Exploratory Data Analysis (EDA) on PhonePe transaction data to uncover
 ![Population vs Users](Population_vs_users.png)
 
 ### Correlation_heatmap
-![Correlation](Population_vs_users.png)
+![Correlation](correlation_heatmap.png)
 
 
 ## Skills Demonstrated
